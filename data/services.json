@@ -4,7 +4,7 @@
 "title": "Aromatherapy Massage", 
 "description": "Relaxing massage with essential oils.", 
 "price": "₹2500", 
-"image": "/images/aroma.jpg", 
+"image": "/images/blog1.jpg", 
 "category": "Massage" 
 }, 
 { 
@@ -12,7 +12,7 @@
 "title": "Facial Treatment", 
 "description": "Deep cleansing and skin hydration.", 
 "price": "₹1800", 
-"image": "/images/facial.jpg", 
+"image": "/images/blog3.jpg", 
 "category": "Skin Care" 
 }, 
 { 
@@ -20,7 +20,7 @@
 "title": "Yoga Session", 
 "description": "One-hour guided yoga session.", 
 "price": "₹1500", 
-"image": "/images/yoga.jpg", 
+"image": "/images/blog2.jpg", 
 "category": "Wellness" 
 } 
 ] 
